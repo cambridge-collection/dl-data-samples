@@ -1,0 +1,28 @@
+{
+  "@type" : "https://schemas.cudl.lib.cam.ac.uk/package/v1/collection.json",
+  "name" : {
+    "url-slug" : "test",
+    "sort" : "Sorting Test Name",
+    "short" : "Test Collection",
+    "full" : "This is a Test Collection"
+  },
+  "description" : {
+    "short" : "Test collection. Short Description.",
+    "full" : {
+      "@id" : "../pages/html/collections/test/summary.html"
+    },
+    "medium" : "Test collection."
+  },
+  "credit" : {
+    "prose" : {
+      "@id" : "../pages/html/collections/test/sponsors.html"
+    }
+  },
+  "items" : [ {
+    "@id" : "../items/data/tei/MS-TEST-00001/MS-TEST-00001.xml"
+  },
+  {
+    "@id" : "../items/data/tei/MS-TEST-00002/MS-TEST-00002.xml"
+  }
+  ]
+}

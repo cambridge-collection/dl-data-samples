@@ -1,0 +1,11 @@
+{
+  "@type" : "https://schemas.cudl.lib.cam.ac.uk/package/v1/dl-dataset.json",
+  "name" : "Sample Digital Library Data",
+  "collections" : [ {
+    "@id" : "collections/test.collection.json"
+  },
+  {
+    "@id" : "collections/another.collection.json"
+  }
+  ]
+}

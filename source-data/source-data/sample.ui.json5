@@ -1,0 +1,70 @@
+{
+  "@type" : "https://schemas.cudl.lib.cam.ac.uk/cudl/ui/v1/json",
+  "theme-name" : "sample",
+  "theme-data" : {
+    "collections" : [ {
+      "collection" : {
+        "@id" : "./collections/test.collection.json"
+      },
+      "layout" : "virtual",
+      "thumbnail" : {
+        "@id" : "./pages/images/collectionsView/collection-test.jpg"
+      }
+    }, {
+      "collection" : {
+        "@id" : "collections/another.collection.json"
+      },
+      "layout" : "organisation",
+      "thumbnail" : {
+        "@id" : "./pages/images/collectionsView/collection-another.jpg"
+      }
+    } ],
+    "pages" : {
+      "general" : {
+        "default-thumbnail" : {
+          "@id" : "./pages/images/collectionsView/no-thumbnail.jpg"
+        },
+        "default-collection-image" : {
+          "@id" : "./pages/images/collectionsView/collection-blank.jpg"
+        }
+      },
+      "home" : {
+        "latest-news-html" : {
+          "@id" : "./pages/html/index-latest-news.html"
+        },
+        "carousel-enties-html" : [ {
+          "@id" : "./pages/html/index-carousel-1.html"
+        }, {
+          "@id" : "./pages/html/index-carousel-2.html"
+        } ]
+      },
+      "about" : {
+        "html" : {
+          "@id" : "./pages/html/about-main.html"
+        },
+        "sidebar-html" : {
+          "@id" : "./pages/html/about-side.html"
+        }
+      },
+      "browse" : {
+        "html" : {
+          "@id" : "./pages/html/collections/collections.html"
+        }
+      }
+    },
+    "static-pages" : {
+      "contributors" : {
+        "@id" : "./pages/html/contributors.html"
+      },
+      "help" : {
+        "@id" : "./pages/html/help.html"
+      },
+      "news" : {
+        "@id" : "./pages/html/news.html"
+      },
+      "terms-conditions" : {
+        "@id" : "./pages/html/terms.html"
+      }
+    }
+  }
+}
