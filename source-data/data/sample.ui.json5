@@ -36,7 +36,10 @@
           "@id" : "./pages/html/index-carousel-1.html"
         }, {
           "@id" : "./pages/html/index-carousel-2.html"
-        } ]
+        },
+          {
+            "@id" : "./pages/html/index-carousel-3.html"
+          }]
       },
       "about" : {
         "html" : {
