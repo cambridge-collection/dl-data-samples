@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/msDesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/msDesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inc.1.A.3.3[4187a]</title>
+            </titleStmt>
+            <publicationStmt>
+
+                <publisher>Cambridge University Library</publisher>
+                <availability xml:id="displayImageRights" status="restricted">
+                    <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+                </availability>
+                <availability xml:id="downloadImageRights" status="restricted">
+                    <licence>Images made available for download are licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported License (CC-BY-NC 3.0)</licence>
+                </availability>
+                <availability xml:id="metadataRights" status="restricted">
+                    <licence>This metadata is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported License.</licence>
+                </availability>
+                <availability xml:id="watermark" status="restricted">
+                    <licence>Cambridge University Library (CC BY-NC 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="n1" xml:lang="eng">
+                    <msIdentifier>
+                        <repository>Cambridge University Library</repository>
+                        <idno>Inc.1.A.3.3[4187a]</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <seg type="para">This Crucifixion woodcut, printed on vellum, was pasted inside the binding of a Missal, a book containing the directions and texts needed to officiate at Mass, by a monk in the Dominican monastery in Nuremberg. The woodcut mirrors an image traditionally found within the missal text marking the opening of the Canon of the Mass, in this copy spectacularly illuminated. The Nuremberg Crucifixion is extraordinary amongst fifteenth century single-sheet prints in that it depicts a generic patron, the figure at the foot of the cross, alongside a blank shield into which an owner could insert his own arms.</seg>
+                        </summary>
+                        <msItem>
+                            <title>[Crucifixion]</title>
+                            <textLang mainLang="fre">French</textLang>
+                            <editor role="fmo">Gibbs, Henry Hucks, 1819-1907</editor>
+                            <editor role="dnr">Scholfield, A. F. (Alwyn Faber), 1884-</editor>
+                            <editor role="fmo">Dominikanerkloster St. Marien (Nuremberg, Germany)</editor>
+                            <editor role="fmo">Aldenham House</editor>
+                            <editor role="pbl">s.n.</editor>
+                            <note>Christ on the cross, between the Virgin and St John; three angels hovering at the sides of the Cross; a patron knelling at the foot of the Cross; a skull on the foreground; Cross titled INRI.</note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc material="paper">
+                                <support>Paper</support>
+                                <extent>Single sheet : woodcut ; 269 x 188 mm. (borderlines); 343 x 260 mm. (sheet) (Broadside fol.)</extent>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origDate calendar="Gregorian" notBefore="1492" notAfter="1492">s.d. [ca. 1492]</origDate>
+                            <origPlace ref="7000084" key="place_g7000084">Germany</origPlace>
+                        </origin>
+                        <provenance>Provenance: Dominican monastery of Sankt Maria of Nuremberg, Germany, late 15th century (see Inc.1.A.3.3[4187b] for details). Henry Hucks Gibbs, 1st baron of Aldenham, his purchase note "Henry H. Gibbs / St Dunstans / (1865) £ 12" on upper right corner of first upper free endpaper, and armorial bookplate, inscribed "Aldenham: House: Herts" pasted onto second upper free endpaper, marked "L/I.3" and "Missal N° 4" in pencil. Probably sold at the Aldenham sale, Sotheby's, London, 22-24 March 1937. Given to the library by Alwyn Faber Scholfield, University Librarian (1923-1949), on 23 March 1937: see note on first upper free endpaper and bookplate on second upper free endpaper. UkCU</provenance>
+                    </history>
+                    <additional>
+                        <adminInfo/>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="LCSH">
+                    <bibl>
+                        <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library
+                            of Congress Subject Headings</ref>
+                    </bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#LCSH">
+                    <list>
+                        <item>
+                            <term key="subject_sh85147844">Wood-engraving -- 15th century</term>
+                        </item>
+                        <item>
+                            <term>Germany</term>
+                        </item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail"
+                 rend="portrait"
+                 url="PR-INC-00001-A-00003-00003-04187-A-000-00001"/>
+        <surface n="1r" xml:id="i1">
+            <graphic decls="#downloadImageRights #download"
+                     height="9916px"
+                     width="6588px"
+                     rend="portrait"
+                     url="PR-INC-00001-A-00003-00003-04187-A-000-00001"/>
+        </surface>
+        <surface n="book" xml:id="i2">
+            <graphic decls="#downloadImageRights #download"
+                     height="8813px"
+                     width="6843px"
+                     rend="portrait"
+                     url="PR-INC-00001-A-00003-00003-04187-A-000-00002"/>
+        </surface>
+    </facsimile>
+    <text>
+        <body>
+            <div>
+                <pb xml:id="Lg-1r" n="1r" facs="#i1"/>
+                <pb xml:id="Lg-book" n="book" facs="#i2"/>
+            </div>
+        </body>
+    </text>
+</TEI>

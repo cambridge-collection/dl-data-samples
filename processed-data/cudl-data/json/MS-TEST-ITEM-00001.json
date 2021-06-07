@@ -1,0 +1,241 @@
+{
+  "textDirection": "L",
+  "logicalStructures": [{
+    "endPagePosition": 2,
+    "startPageLabel": "1r",
+    "startPageID": "PHYS-1",
+    "descriptiveMetadataID": "DOCUMENT",
+    "label": "[Crucifixion]",
+    "startPagePosition": 1,
+    "endPageLabel": "book"
+  }],
+  "pages": [
+    {
+      "imageWidth": 6588,
+      "displayImageURL": "content/images/PR-INC-00001-A-00003-00003-04187-A-000-00001.dzi",
+      "sequence": 1,
+      "thumbnailImageURL": "content/images/PR-INC-00001-A-00003-00003-04187-A-000-00001_files/8/0_0.jpg",
+      "IIIFImageURL": "PR-INC-00001-A-00003-00003-04187-A-000-00001.jp2",
+      "downloadImageURL": "content/images/PR-INC-00001-A-00003-00003-04187-A-000-00001.jpg",
+      "label": "1r",
+      "physID": "PHYS-1",
+      "thumbnailImageOrientation": "portrait",
+      "imageHeight": 9916
+    },
+    {
+      "imageWidth": 6843,
+      "displayImageURL": "content/images/PR-INC-00001-A-00003-00003-04187-A-000-00002.dzi",
+      "sequence": 2,
+      "thumbnailImageURL": "content/images/PR-INC-00001-A-00003-00003-04187-A-000-00002_files/8/0_0.jpg",
+      "IIIFImageURL": "PR-INC-00001-A-00003-00003-04187-A-000-00002.jp2",
+      "downloadImageURL": "content/images/PR-INC-00001-A-00003-00003-04187-A-000-00002.jpg",
+      "label": "book",
+      "physID": "PHYS-2",
+      "thumbnailImageOrientation": "portrait",
+      "imageHeight": 8813
+    }
+  ],
+  "numberOfPages": 2,
+  "descriptiveMetadata": [{
+    "extent": {
+      "display": true,
+      "label": "Extent",
+      "displayForm": "Single sheet : woodcut ; 269 x 188 mm. (borderlines); 343 x 260 mm. (sheet) (Broadside fol.)",
+      "seq": 173
+    },
+    "languageStrings": {
+      "display": true,
+      "label": "Language(s)",
+      "value": [{
+        "display": true,
+        "displayForm": "French",
+        "seq": 120
+      }],
+      "seq": 119
+    },
+    "physicalLocation": {
+      "display": true,
+      "label": "Physical Location",
+      "displayForm": "Cambridge University Library",
+      "seq": 4
+    },
+    "notes": {
+      "display": true,
+      "label": "Note(s)",
+      "value": [{
+        "display": true,
+        "displayForm": "Christ on the cross, between the Virgin and St John; three angels hovering at the sides of the Cross; a patron knelling at the foot of the Cross; a skull on the foreground; Cross titled INRI.",
+        "seq": 165
+      }],
+      "seq": 164
+    },
+    "thumbnailOrientation": "portrait",
+    "formerOwners": {
+      "display": true,
+      "label": "Former Owner(s)",
+      "value": [
+        {
+          "role": "fmo",
+          "display": true,
+          "linktype": "keyword search",
+          "shortForm": "Gibbs, Henry Hucks, 1819-1907",
+          "fullForm": "Gibbs, Henry Hucks, 1819-1907",
+          "displayForm": "Gibbs, Henry Hucks, 1819-1907",
+          "seq": 131
+        },
+        {
+          "role": "fmo",
+          "display": true,
+          "linktype": "keyword search",
+          "shortForm": "Dominikanerkloster St. Marien (Nuremberg, Germany)",
+          "fullForm": "Dominikanerkloster St. Marien (Nuremberg, Germany)",
+          "displayForm": "Dominikanerkloster St. Marien (Nuremberg, Germany)",
+          "seq": 131
+        },
+        {
+          "role": "fmo",
+          "display": true,
+          "linktype": "keyword search",
+          "shortForm": "Aldenham House",
+          "fullForm": "Aldenham House",
+          "displayForm": "Aldenham House",
+          "seq": 131
+        }
+      ],
+      "seq": 130
+    },
+    "shelfLocator": {
+      "display": true,
+      "label": "Classmark",
+      "displayForm": "Inc.1.A.3.3[4187a]",
+      "seq": 5
+    },
+    "subjects": {
+      "display": true,
+      "listDisplay": "inline",
+      "label": "Subject(s)",
+      "value": [
+        {
+          "authorityURI": "http://id.loc.gov/authorities/about.html#lcsh",
+          "display": true,
+          "authority": "Library of Congress Subject Headings",
+          "linktype": "keyword search",
+          "valueURI": "subject_sh85147844",
+          "fullForm": "Wood-engraving -- 15th century",
+          "displayForm": "Wood-engraving -- 15th century",
+          "seq": 23
+        },
+        {
+          "display": true,
+          "linktype": "keyword search",
+          "fullForm": "Germany",
+          "displayForm": "Germany",
+          "seq": 23
+        }
+      ],
+      "seq": 22
+    },
+    "displayImageRights": "Zooming image © Cambridge University Library, All rights reserved.",
+    "metadataRights": "This metadata is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported License.",
+    "imageReproPageURL": "https://imagingservices.lib.cam.ac.uk/",
+    "abstract": {
+      "display": false,
+      "label": "Abstract",
+      "displayForm": "<p style='text-align: justify;'>This Crucifixion woodcut, printed on vellum, was pasted inside the binding of a Missal, a book containing the directions and texts needed to officiate at Mass, by a monk in the Dominican monastery in Nuremberg. The woodcut mirrors an image traditionally found within the missal text marking the opening of the Canon of the Mass, in this copy spectacularly illuminated. The Nuremberg Crucifixion is extraordinary amongst fifteenth century single-sheet prints in that it depicts a generic patron, the figure at the foot of the cross, alongside a blank shield into which an owner could insert his own arms.<\/p>",
+      "seq": 11
+    },
+    "watermarkStatement": "Cambridge University Library (CC BY-NC 4.0)",
+    "title": {
+      "display": false,
+      "label": "Title",
+      "displayForm": "[Crucifixion]",
+      "seq": 10
+    },
+    "fundings": {
+      "display": true,
+      "label": "Funding",
+      "value": [{
+        "display": true,
+        "displayForm": "",
+        "seq": 209
+      }],
+      "seq": 208
+    },
+    "docAuthority": "",
+    "languageCodes": ["fre"],
+    "material": {
+      "display": true,
+      "label": "Material",
+      "displayForm": "Paper",
+      "seq": 177
+    },
+    "donors": {
+      "display": true,
+      "label": "Donor(s)",
+      "value": [{
+        "role": "dnr",
+        "display": true,
+        "linktype": "keyword search",
+        "shortForm": "Scholfield, A. F. (Alwyn Faber), 1884-",
+        "fullForm": "Scholfield, A. F. (Alwyn Faber), 1884-",
+        "displayForm": "Scholfield, A. F. (Alwyn Faber), 1884-",
+        "seq": 122
+      }],
+      "seq": 121
+    },
+    "ID": "DOCUMENT",
+    "downloadImageRights": "Images made available for download are licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported License (CC-BY-NC 3.0)",
+    "provenances": {
+      "display": true,
+      "label": "Provenance",
+      "value": [{
+        "display": true,
+        "displayForm": "Provenance: Dominican monastery of Sankt Maria of Nuremberg, Germany, late 15th century (see Inc.1.A.3.3[4187b] for details). Henry Hucks Gibbs, 1st baron of Aldenham, his purchase note \"Henry H. Gibbs / St Dunstans / (1865) £ 12\" on upper right corner of first upper free endpaper, and armorial bookplate, inscribed \"Aldenham: House: Herts\" pasted onto second upper free endpaper, marked \"L/I.3\" and \"Missal N° 4\" in pencil. Probably sold at the Aldenham sale, Sotheby's, London, 22-24 March 1937. Given to the library by Alwyn Faber Scholfield, University Librarian (1923-1949), on 23 March 1937: see note on first upper free endpaper and bookplate on second upper free endpaper. UkCU",
+        "seq": 197
+      }],
+      "seq": 196
+    },
+    "thumbnailUrl": "content/images/PR-INC-00001-A-00003-00003-04187-A-000-00001_files/8/0_0.jpg",
+    "publications": {
+      "display": true,
+      "value": [{
+        "places": {
+          "display": true,
+          "label": "Place of Publication",
+          "value": [{
+            "display": true,
+            "linktype": "keyword search",
+            "shortForm": "Germany",
+            "fullForm": "Germany",
+            "displayForm": "Germany",
+            "seq": 86
+          }],
+          "seq": 85
+        },
+        "dateDisplay": {
+          "display": true,
+          "linktype": "keyword search",
+          "label": "Date of Publication",
+          "displayForm": "s.d. [ca. 1492]",
+          "seq": 94
+        },
+        "dateStart": "1492",
+        "publishers": {
+          "display": true,
+          "label": "Publisher",
+          "value": [{
+            "display": true,
+            "displayForm": "s.n.",
+            "seq": 84
+          }],
+          "seq": 83
+        },
+        "dateEnd": "1492",
+        "type": "publication"
+      }],
+      "seq": 80
+    }
+  }],
+  "sourceData": "/v1/metadata/tei/PR-INC-00001-A-00003-00003-04187-A/",
+  "embeddable": true
+}
