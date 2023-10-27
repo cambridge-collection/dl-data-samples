@@ -172,10 +172,7 @@ a:focus, .tile a:hover, .article a:hover {
     width: 30px;
 }
 
-/* logo */
-.cam-logo-black-bg {
-    -webkit-filter: invert(1);
-    filter: invert(1);
+.cam-logo {
+    margin-top: 13px;
 }
-
 
