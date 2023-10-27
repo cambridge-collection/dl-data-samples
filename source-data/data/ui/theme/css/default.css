@@ -1,0 +1,181 @@
+/* Basic styles we might want to override for theming */
+
+:root {
+    --main-colour: #FF643F;
+    --main-colour-hover: #00BBBB;
+    --colour-light: #FFA18B;
+    --colour-medium: #FF604A;
+    --colour-bold: #FF4216;
+    --card-text-colour-hover: #000;
+    --text-disabled-colour: #6c757d;
+    --background-colour: #fff;
+
+    --neutral-colour: #000;
+    --foreground-colour: #f2f2f2;
+}
+
+.main-nav {
+    background-color: var(--background-colour);
+}
+
+a, a:link, a:visited, a:hover, a:focus, a:active {
+    color: var(--main-colour-hover);
+}
+
+.cudl-banner {
+    background-color: var(--main-colour);
+    color: var(--background-colour);
+}
+
+.cudl-banner:hover {
+    background-color: var(--main-colour-hover);
+}
+
+.home .cudl-banner:hover {
+    background-color: var(--main-colour-hover);
+}
+
+.cudl-banner:hover a,
+.cudl-banner a:hover {
+    color: var(--background-colour) !important;
+}
+
+/* Index page */
+.xl-button-caption {
+    background-color: var(--main-colour);
+    color: var(--background-colour);
+}
+.xl-button-caption:hover {
+    background-color: var(--main-colour-hover);
+}
+.tile-caption {
+    background-color: var(--neutral-colour);
+}
+.tile a:hover .tile-caption, .tile a:focus .tile-caption {
+    background-color: var(--main-colour-hover);
+}
+.more-link a:hover {
+    background-color: var(--main-colour-hover);
+}
+.text a:hover {
+    background-color: var(--card-text-colour-hover);
+}
+.text a {
+    color: var(--foreground-colour);
+    background-color: var(--neutral-colour);
+}
+
+a:focus, .tile a:hover, .article a:hover {
+    outline: 6px solid var(--main-colour-hover);
+}
+
+.builtby a {
+    color: var(--main-colour-hover);
+}
+.watch-list-ul a {
+    color: #000;
+}
+
+/* Cards on Browse (All Collections) page */
+
+.card {
+    background-color: var(--main-colour);
+    color: var(--background-colour);
+}
+
+.card:link,
+.card:hover {
+    background: var(--colour-medium);
+    color: var(--card-text-colour-hover) !important;
+}
+
+/* Collections pages */
+.collections_carousel_image_box:hover, .collections_carousel_image_box:focus, .collections_carousel_image_box:active {
+    outline: 5px solid var(--main-colour-hover);
+}
+
+.collections_carousel_item a {
+    color: #0072cf;
+}
+
+/* dropdown menu */
+.dropdown-content {
+    background-color: var(--colour-medium);
+    color: var(--colour-bold);
+}
+
+/* close button */
+.closebtn.icon {
+    background-color: var(--colour-medium);
+}
+
+/* document page theming */
+.breadcrumb {
+    background-color: var(--main-colour);
+}
+
+#use .usebutton a {
+    color: var(--background-colour);
+    border-color: var(--colour-medium);
+}
+
+.panel-info > .panel-heading {
+    color: var(--colour-bold);
+    background-color: var(--colour-light);
+    border-color: var(--colour-medium);
+}
+
+.panel-info > .panel-heading + .panel-collapse > .panel-body {
+    border-top-color: var(--colour-medium);
+}
+
+.panel-info {
+    border-color: var(--colour-medium);
+}
+
+.alert-info {
+    color: var(--main-colour);
+    background-color: var(--colour-light);
+    border-color: var(--colour-medium);
+}
+
+.nav-link, a {
+    color: var(--colour-bold);
+}
+.nav-link:focus,.nav-link:hover {
+    color: var(--colour-medium)
+}
+
+.dropdown-item.active, .dropdown-item:active {
+    color: var(--background-colour);
+    background-color: var(--main-colour);
+}
+
+.document-page #doc-breadcrumb a,
+.document-page #doc-breadcrumb a:hover,
+.document-page #doc-breadcrumb a:focus,
+.document-page #doc-breadcrumb a:active {
+    color: #fff;
+}
+
+.document-page a, .document-page a:hover,
+.document-page a:focus, .document-page a:active {
+    color: #0072cf;
+    outline: none;
+}
+
+.document-cam-logo-left {
+    width: 110px;
+}
+
+.document-cam-logo-right {
+    width: 30px;
+}
+
+/* logo */
+.cam-logo-black-bg {
+    -webkit-filter: invert(1);
+    filter: invert(1);
+}
+
+
