@@ -1,19 +1,19 @@
 /* Basic styles we might want to override for theming */
 
 
-:root {
-    --main-colour: #106470;
-    --main-colour-hover: #E5007D;
-    --colour-light: #d9edf7;;
-    --colour-medium: #6BBBAE;
-    --colour-bold: #31708f;
-    --card-text-colour-hover: #000;
-    --card-colour-light: #d9edf7;
-    --text-disabled-colour: #6c757d;
+/*:root {*/
+/*    --main-colour: #106470;*/
+/*    --main-colour-hover: #E5007D;*/
+/*    --colour-light: #d9edf7;;*/
+/*    --colour-medium: #6BBBAE;*/
+/*    --colour-bold: #31708f;*/
+/*    --card-text-colour-hover: #000;*/
+/*    --card-colour-light: #d9edf7;*/
+/*    --text-disabled-colour: #6c757d;*/
 
-    --neutral-colour: #000;
-    --background-colour: #fff;
-    --foreground-colour: #f2f2f2;
-}
+/*    --neutral-colour: #000;*/
+/*    --background-colour: #fff;*/
+/*    --foreground-colour: #f2f2f2;*/
+/*}*/
 
 
