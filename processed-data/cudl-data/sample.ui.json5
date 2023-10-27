@@ -77,9 +77,9 @@
     ]
   },
   "theme-ui": {
-    "title": "Cambridge Digital Library",
-    "description": "A home for the discovery of digitised material and research outputs from the University of Cambridge and beyond",
-    "attribution": "Provided by Cambridge University Library.",
+    "title": "My Digital Collections",
+    "description": "A home for the discovery of digitised material and research outputs",
+    "attribution": "Provided by My Institution.",
     "css": [
       "ui/theme/css/default.css",
       "ui/theme/css/override.css"
