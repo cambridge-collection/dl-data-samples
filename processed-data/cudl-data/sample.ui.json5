@@ -101,16 +101,6 @@
         "alt": "You can have a different logo here for the document page",
         "href": "https://community.cdcp.info/"
       },
-      "logo_document_page_ul": {
-        "src": "ui/theme/images/cudl-logo-1x.png",
-        "alt": "University of Cambridge Digital Library",
-        "href": "/"
-      },
-      "logo_document_page_right_ul": {
-        "src": "ui/theme/images/ULLogowhite.gif",
-        "alt": "Cambridge University Library",
-        "href": "https://www.lib.cam.ac.uk"
-      },
       "logo_additional": {
         "src": "ui/theme/images/additional-800w.jpg",
         "alt": "Alt text",
