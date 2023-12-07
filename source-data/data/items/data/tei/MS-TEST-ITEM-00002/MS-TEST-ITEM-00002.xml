@@ -180,13 +180,13 @@
     <facsimile>
         <graphic decls="#document-thumbnail"
                  rend="portrait"
-                 url="MS-DOC-00829-000-00001"/>
+                 url="MS-TEST-ITEM-00002-000-00001"/>
         <surface n="1" xml:id="i1">
             <graphic decls="#downloadImageRights #download"
                      height="8688px"
                      width="5792px"
                      rend="portrait"
-                     url="MS-DOC-00829-000-00001"/>
+                     url="MS-TEST-ITEM-00002-000-00001"/>
         </surface>
 
 

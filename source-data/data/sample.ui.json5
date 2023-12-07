@@ -4,7 +4,7 @@
   "theme-data" : {
     "collections" : [ {
       "collection" : {
-        "@id" : "./collections/test.collection.json"
+        "@id" : "collections/test.collection.json"
       },
       "layout" : "virtual",
       "thumbnail" : {
@@ -19,59 +19,58 @@
         "@id" : "./pages/images/collectionsView/collection-another.jpg"
       }
     } ],
-    "pages": [
-      {
+    "pages": [ {
         "name": "home",
         "html": {
-          "@id": "pages/html/index.html"
+          "@id": "./pages/html/index.html"
         }
       },
       {
         "name": "about",
         "html": {
-          "@id": "pages/html/about-main.html"
+          "@id": "./pages/html/about-main.html"
         }
       },
       {
         "name": "about-main-side",
         "html": {
-          "@id": "pages/html/about-side.html"
+          "@id": "./pages/html/about-side.html"
         }
       },
       {
         "name": "about-community",
         "html": {
-          "@id": "pages/html/about-main.html"
+          "@id": "./pages/html/about-main.html"
         }
       },
       {
         "name": "about-news",
         "html": {
-          "@id": "pages/html/news.html"
+          "@id": "./pages/html/news.html"
         }
       },
       {
         "name": "about-contributors",
         "html": {
-          "@id": "pages/html/contributors.html"
+          "@id": "./pages/html/contributors.html"
         }
       },
       {
         "name": "about-terms-conditions",
         "html": {
-          "@id": "pages/html/terms.html"
+          "@id": "./pages/html/terms.html"
         }
       },
       {
         "name": "help",
         "html": {
-          "@id": "pages/html/help.html"
+          "@id": "./pages/html/help.html"
         }
       },
       {
         "name": "footer",
         "html": {
-          "@id": "pages/html/footer.html"
+          "@id": "./pages/html/footer.html"
         }
       }
     ]
