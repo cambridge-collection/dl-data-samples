@@ -13,7 +13,7 @@
     "imageWidth": 5792,
     "displayImageURL": "demo",
     "sequence": 1,
-    "thumbnailImageURL": "demo",
+    "thumbnailImageURL": "demo/full/180,/0/default.jpg",
     "IIIFImageURL": "demo",
     "downloadImageURL": "demo",
     "label": "1",
@@ -178,7 +178,7 @@
       }],
       "seq": 196
     },
-    "thumbnailUrl": "demo"
+    "thumbnailUrl": "demo/full/180,/0/default.jpg"
   }],
   "sourceData": "/v1/metadata/tei/MS-DOC-00829/",
   "embeddable": true
