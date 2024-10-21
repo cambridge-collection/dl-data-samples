@@ -10,9 +10,8 @@ Source data (before processing)
  - HTML / images for website pages
  
  Processed Data (suitable for using directly with the cudl-viewer)
- - JSON data for items
+ - JSON data for items and collections
  - HTML / images for website pages
- - Database snapshot SQL 
  
 ## Item file names
 
