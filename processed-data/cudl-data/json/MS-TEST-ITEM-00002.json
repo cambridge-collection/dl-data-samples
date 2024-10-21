@@ -11,11 +11,11 @@
   }],
   "pages": [{
     "imageWidth": 5792,
-    "displayImageURL": "content/images/MS-DOC-00829-000-00001.dzi",
+    "displayImageURL": "demo",
     "sequence": 1,
-    "thumbnailImageURL": "content/images/MS-DOC-00829-000-00001_files/8/0_0.jpg",
+    "thumbnailImageURL": "demo",
     "IIIFImageURL": "demo",
-    "downloadImageURL": "content/images/MS-DOC-00829-000-00001.jpg",
+    "downloadImageURL": "demo",
     "label": "1",
     "physID": "PHYS-1",
     "thumbnailImageOrientation": "portrait",
@@ -178,7 +178,7 @@
       }],
       "seq": 196
     },
-    "thumbnailUrl": "content/images/MS-DOC-00829-000-00001_files/8/0_0.jpg"
+    "thumbnailUrl": "demo"
   }],
   "sourceData": "/v1/metadata/tei/MS-DOC-00829/",
   "embeddable": true

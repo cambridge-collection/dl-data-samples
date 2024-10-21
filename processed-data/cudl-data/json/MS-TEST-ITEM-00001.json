@@ -14,7 +14,7 @@
       "imageWidth": 6588,
       "displayImageURL": "content/images/PR-INC-00001-A-00003-00003-04187-A-000-00001.dzi",
       "sequence": 1,
-      "thumbnailImageURL": "content/images/PR-INC-00001-A-00003-00003-04187-A-000-00001_files/8/0_0.jpg",
+      "thumbnailImageURL": "demo",
       "IIIFImageURL": "demo",
       "downloadImageURL": "content/images/PR-INC-00001-A-00003-00003-04187-A-000-00001.jpg",
       "label": "1r",
@@ -26,7 +26,7 @@
       "imageWidth": 6843,
       "displayImageURL": "content/images/PR-INC-00001-A-00003-00003-04187-A-000-00002.dzi",
       "sequence": 2,
-      "thumbnailImageURL": "content/images/PR-INC-00001-A-00003-00003-04187-A-000-00002_files/8/0_0.jpg",
+      "thumbnailImageURL": "demo",
       "IIIFImageURL": "demo",
       "downloadImageURL": "content/images/PR-INC-00001-A-00003-00003-04187-A-000-00002.jpg",
       "label": "book",
@@ -195,7 +195,7 @@
       }],
       "seq": 196
     },
-    "thumbnailUrl": "content/images/PR-INC-00001-A-00003-00003-04187-A-000-00001_files/8/0_0.jpg",
+    "thumbnailUrl": "demo",
     "publications": {
       "display": true,
       "value": [{
