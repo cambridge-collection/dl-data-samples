@@ -93,20 +93,20 @@
     <facsimile>
         <graphic decls="#document-thumbnail"
                  rend="portrait"
-                 url="PR-INC-00001-A-00003-00003-04187-A-000-00001"/>
+                 url="demo.jp2"/>
         <surface n="1r" xml:id="i1">
             <graphic decls="#downloadImageRights #download"
                      height="9916px"
                      width="6588px"
                      rend="portrait"
-                     url="PR-INC-00001-A-00003-00003-04187-A-000-00001"/>
+                     url="demo.jp2"/>
         </surface>
         <surface n="book" xml:id="i2">
             <graphic decls="#downloadImageRights #download"
                      height="8813px"
                      width="6843px"
                      rend="portrait"
-                     url="PR-INC-00001-A-00003-00003-04187-A-000-00002"/>
+                     url="demo.jp2"/>
         </surface>
     </facsimile>
     <text>
