@@ -5,18 +5,17 @@
     "startPageLabel": "1r",
     "startPageID": "PHYS-1",
     "descriptiveMetadataID": "DOCUMENT",
-    "label": "[Crucifixion]",
+    "label": "Test Document",
     "startPagePosition": 1,
     "endPageLabel": "book"
   }],
   "pages": [
     {
       "imageWidth": 6588,
-      "displayImageURL": "content/images/PR-INC-00001-A-00003-00003-04187-A-000-00001.dzi",
       "sequence": 1,
       "thumbnailImageURL": "demo/full/180,/0/default.jpg",
       "IIIFImageURL": "demo",
-      "downloadImageURL": "content/images/PR-INC-00001-A-00003-00003-04187-A-000-00001.jpg",
+      "downloadImageURL": "demo",
       "label": "1r",
       "physID": "PHYS-1",
       "thumbnailImageOrientation": "portrait",
@@ -24,11 +23,10 @@
     },
     {
       "imageWidth": 6843,
-      "displayImageURL": "content/images/PR-INC-00001-A-00003-00003-04187-A-000-00002.dzi",
       "sequence": 2,
       "thumbnailImageURL": "demo/full/180,/0/default.jpg",
       "IIIFImageURL": "demo",
-      "downloadImageURL": "content/images/PR-INC-00001-A-00003-00003-04187-A-000-00002.jpg",
+      "downloadImageURL": "demo",
       "label": "book",
       "physID": "PHYS-2",
       "thumbnailImageOrientation": "portrait",

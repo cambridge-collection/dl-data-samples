@@ -11,7 +11,6 @@
   }],
   "pages": [{
     "imageWidth": 5792,
-    "displayImageURL": "demo",
     "sequence": 1,
     "thumbnailImageURL": "demo/full/180,/0/default.jpg",
     "IIIFImageURL": "demo",
