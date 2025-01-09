@@ -13,7 +13,7 @@
     {
       "imageWidth": 6588,
       "sequence": 1,
-      "thumbnailImageURL": "demo/full/180,/0/default.jpg",
+      "thumbnailImageURL": "demo",
       "IIIFImageURL": "demo",
       "downloadImageURL": "demo",
       "label": "1r",
@@ -24,7 +24,7 @@
     {
       "imageWidth": 6843,
       "sequence": 2,
-      "thumbnailImageURL": "demo/full/180,/0/default.jpg",
+      "thumbnailImageURL": "demo",
       "IIIFImageURL": "demo",
       "downloadImageURL": "demo",
       "label": "book",
@@ -193,7 +193,7 @@
       }],
       "seq": 196
     },
-    "thumbnailUrl": "demo/full/180,/0/default.jpg",
+    "thumbnailUrl": "demo",
     "publications": {
       "display": true,
       "value": [{
