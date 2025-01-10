@@ -105,7 +105,7 @@
     "shelfLocator": {
       "display": true,
       "label": "Classmark",
-      "displayForm": "Inc.1.A.3.3[4187a]",
+      "displayForm": "MS.Test.01",
       "seq": 5
     },
     "subjects": {
@@ -139,14 +139,14 @@
     "abstract": {
       "display": false,
       "label": "Abstract",
-      "displayForm": "<p style='text-align: justify;'>This Crucifixion woodcut, printed on vellum, was pasted inside the binding of a Missal, a book containing the directions and texts needed to officiate at Mass, by a monk in the Dominican monastery in Nuremberg. The woodcut mirrors an image traditionally found within the missal text marking the opening of the Canon of the Mass, in this copy spectacularly illuminated. The Nuremberg Crucifixion is extraordinary amongst fifteenth century single-sheet prints in that it depicts a generic patron, the figure at the foot of the cross, alongside a blank shield into which an owner could insert his own arms.<\/p>",
+      "displayForm": "<p style='text-align: justify;'>This a test item with sample data. Info could include, e.g. woodcut, printed on vellum, was pasted inside the binding of a Missal, a book containing the directions and texts needed to officiate at Mass, by a monk in the Dominican monastery in Nuremberg. The woodcut mirrors an image traditionally found within the missal text marking the opening of the Canon of the Mass, in this copy spectacularly illuminated. The Nuremberg Crucifixion is extraordinary amongst fifteenth century single-sheet prints in that it depicts a generic patron, the figure at the foot of the cross, alongside a blank shield into which an owner could insert his own arms.<\/p>",
       "seq": 11
     },
     "watermarkStatement": "Cambridge University Library (CC BY-NC 4.0)",
     "title": {
       "display": false,
       "label": "Title",
-      "displayForm": "[Crucifixion]",
+      "displayForm": "Test Item 01",
       "seq": 10
     },
     "fundings": {
