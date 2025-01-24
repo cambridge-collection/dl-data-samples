@@ -12,9 +12,7 @@
   "pages": [{
     "imageWidth": 5792,
     "sequence": 1,
-    "thumbnailImageURL": "demo",
     "IIIFImageURL": "demo",
-    "downloadImageURL": "demo",
     "label": "1",
     "physID": "PHYS-1",
     "thumbnailImageOrientation": "portrait",

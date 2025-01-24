@@ -11,22 +11,18 @@
   }],
   "pages": [
     {
-      "imageWidth": 6588,
+      "imageWidth": 3543,
       "sequence": 1,
-      "thumbnailImageURL": "demo",
-      "IIIFImageURL": "demo",
-      "downloadImageURL": "demo",
+      "IIIFImageURL": "https://iiif.wellcomecollection.org/image/b20432033_B0008608.JP2",
       "label": "1r",
       "physID": "PHYS-1",
-      "thumbnailImageOrientation": "portrait",
-      "imageHeight": 9916
+      "thumbnailImageOrientation": "landscape",
+      "imageHeight": 2480
     },
     {
       "imageWidth": 6843,
       "sequence": 2,
-      "thumbnailImageURL": "demo",
       "IIIFImageURL": "demo",
-      "downloadImageURL": "demo",
       "label": "book",
       "physID": "PHYS-2",
       "thumbnailImageOrientation": "portrait",
@@ -67,7 +63,7 @@
       }],
       "seq": 164
     },
-    "thumbnailOrientation": "portrait",
+    "thumbnailOrientation": "landscape",
     "formerOwners": {
       "display": true,
       "label": "Former Owner(s)",
@@ -193,7 +189,7 @@
       }],
       "seq": 196
     },
-    "thumbnailUrl": "demo",
+    "thumbnailUrl": "https://iiif.wellcomecollection.org/image/b20432033_B0008608.JP2",
     "publications": {
       "display": true,
       "value": [{
