@@ -206,18 +206,12 @@
         </revisionDesc>
     </teiHeader>
     <facsimile>
-        <graphic decls="#document-thumbnail" rend="portrait" url="MS-TEST-ITEM-00001-000-00001"/>
+        <graphic decls="#document-thumbnail" rend="portrait" url="Example-MANUSCRIPT-p0001"/>
         <surface n="1r" xml:id="i1">
-            <graphic decls="#downloadImageRights #download" height="9800px" rend="portrait" url="MS-TEST-ITEM-00001-000-00001" width="6200px"/>
+            <graphic decls="#downloadImageRights #download" height="9800px" rend="portrait" url="Example-MANUSCRIPT-p0001" width="6200px"/>
         </surface>
         <surface n="1v" xml:id="i2">
-            <graphic decls="#downloadImageRights #download" height="9800px" rend="portrait" url="MS-TEST-ITEM-00001-000-00002" width="6200px"/>
-        </surface>
-        <surface n="2r" xml:id="i3">
-            <graphic decls="#downloadImageRights #download" height="9800px" rend="portrait" url="MS-TEST-ITEM-00001-000-00003" width="6200px"/>
-        </surface>
-        <surface n="2v" xml:id="i4">
-            <graphic decls="#downloadImageRights #download" height="9800px" rend="portrait" url="MS-TEST-ITEM-00001-000-00004" width="6200px"/>
+            <graphic decls="#downloadImageRights #download" height="9800px" rend="portrait" url="Example-MANUSCRIPT-p0002" width="6200px"/>
         </surface>
     </facsimile>
     <text>
@@ -225,8 +219,6 @@
             <div>
                 <pb xml:id="Lg-1r" n="1r" facs="#i1"/>
                 <pb xml:id="Lg-1v" n="1v" facs="#i2"/>
-                <pb xml:id="Lg-2r" n="2r" facs="#i3"/>
-                <pb xml:id="Lg-2v" n="2v" facs="#i4"/>
             </div>
         </body>
     </text>

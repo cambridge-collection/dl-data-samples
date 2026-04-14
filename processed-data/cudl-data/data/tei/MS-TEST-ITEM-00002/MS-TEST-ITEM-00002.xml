@@ -130,19 +130,15 @@
         </revisionDesc>
     </teiHeader>
     <facsimile>
-        <graphic decls="#document-thumbnail" rend="portrait" url="MS-TEST-ITEM-00002-000-00001"/>
+        <graphic decls="#document-thumbnail" rend="portrait" url="Example-ITEM-p0001"/>
         <surface n="1r" xml:id="i1">
-            <graphic decls="#downloadImageRights #download" height="11955px" rend="portrait" url="MS-TEST-ITEM-00002-000-00001" width="8079px"/>
-        </surface>
-        <surface n="1v" xml:id="i2">
-            <graphic decls="#downloadImageRights #download" height="11955px" rend="portrait" url="MS-TEST-ITEM-00002-000-00002" width="9002px"/>
+            <graphic decls="#downloadImageRights #download" height="11955px" rend="portrait" url="Example-ITEM-p0001" width="8079px"/>
         </surface>
     </facsimile>
     <text>
         <body>
             <div>
                 <pb xml:id="Lg-1r" n="1r" facs="#i1"/>
-                <pb xml:id="Lg-1v" n="1v" facs="#i2"/>
             </div>
         </body>
     </text>

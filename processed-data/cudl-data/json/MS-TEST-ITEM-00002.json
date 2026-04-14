@@ -1,7 +1,7 @@
 
  { "descriptiveMetadata" : 
   [ 
-   { "thumbnailUrl" : "MS-TEST-ITEM-00002-000-00001",
+   { "thumbnailUrl" : "Example-ITEM-p0001",
     "thumbnailOrientation" : "portrait",
     "displayImageRights" : "Zooming image © Cambridge University Library, All rights reserved.",
     "downloadImageRights" : "This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please contact genizah@lib.cam.ac.uk.",
@@ -178,7 +178,14 @@
        "displayForm" : "Aramaic; Hebrew",
        "seq" : 120 } ] } } ],
   "fileID" : "MS-TEST-ITEM-00002",
-  "numberOfPages" : 2,
+  "collection" : 
+  [ 
+   { "url-slug" : "test",
+    "name-short" : "This is a Test Collection",
+    "sort" : 
+    { "name" : "test_sort",
+     "value" : "000002" } } ],
+  "numberOfPages" : 1,
   "embeddable" : true,
   "textDirection" : "L",
   "sourceData" : "/v1/metadata/tei/MS-TEST-ITEM-00002/",
@@ -189,19 +196,9 @@
     "physID" : "PHYS-1",
     "sequence" : 1,
     "itemURL" : "MS-TEST-ITEM-00002/1",
-    "IIIFImageURL" : "MS-TEST-ITEM-00002-000-00001",
+    "IIIFImageURL" : "Example-ITEM-p0001",
     "thumbnailImageOrientation" : "portrait",
     "imageWidth" : 8079,
-    "imageHeight" : 11955 },
-   
-   { "id" : "MS-TEST-ITEM-00002-2",
-    "label" : "1v",
-    "physID" : "PHYS-2",
-    "sequence" : 2,
-    "itemURL" : "MS-TEST-ITEM-00002/2",
-    "IIIFImageURL" : "MS-TEST-ITEM-00002-000-00002",
-    "thumbnailImageOrientation" : "portrait",
-    "imageWidth" : 9002,
     "imageHeight" : 11955 } ],
   "logicalStructures" : 
   [ 
@@ -210,5 +207,5 @@
     "startPageLabel" : "1r",
     "startPagePosition" : 1,
     "startPageID" : "PHYS-1",
-    "endPageLabel" : "1v",
-    "endPagePosition" : 2 } ] }
+    "endPageLabel" : "1r",
+    "endPagePosition" : 1 } ] }

@@ -1,7 +1,7 @@
 
  { "descriptiveMetadata" : 
   [ 
-   { "thumbnailUrl" : "MS-TEST-ITEM-00001-000-00001",
+   { "thumbnailUrl" : "Example-MANUSCRIPT-p0001",
     "thumbnailOrientation" : "portrait",
     "displayImageRights" : "Zooming image © Cambridge University Library, All rights reserved.",
     "downloadImageRights" : "Images made available for download are licensed under a Creative Commons Attribution-NonCommercial 4.0 Unported License (CC BY-NC 4.0)",
@@ -52,7 +52,7 @@
     "ID" : "DOCUMENT",
     "abstract" : 
     { "display" : false,
-     "displayForm" : "<p style='text-align: justify;'>A richly illuminated and almost complete copy of the Shahnamah with less than a page missing of its prose introduction, probably copied in the 16th/17th Century C.E. The drop-shaped <a href='' onclick='store.loadPage(1);return false;'>Golkonda seal</a> on the first page appears to be that of Muhammad Quli Qutb Shah, Sultan of Golkunda, 1565-1612 with the date 1012 [1603/4 C.E.] and a later inscription dated 1091 [1610/11 C.E.]. The double page frontispiece depicting <a href='' onclick='store.loadPage(2);return false;'>Sulayman enthroned</a> and <a href='' onclick='store.loadPage(3);return false;'>Bilqis enthroned</a> is followed by a luxuriously executed double page illumination in gold and polychrome <a href='' onclick='store.loadPage(4);return false;'>[2v, 3r]</a>. </p>",
+     "displayForm" : "<p style='text-align: justify;'>A richly illuminated and almost complete copy of the Shahnamah with less than a page missing of its prose introduction, probably copied in the 16th/17th Century C.E. The drop-shaped <a href='' onclick='store.loadPage(1);return false;'>Golkonda seal</a> on the first page appears to be that of Muhammad Quli Qutb Shah, Sultan of Golkunda, 1565-1612 with the date 1012 [1603/4 C.E.] and a later inscription dated 1091 [1610/11 C.E.]. The double page frontispiece depicting <a href='' onclick='store.loadPage(2);return false;'>Sulayman enthroned</a> and <a href='' onclick='store.loadPage(1);return false;'>Bilqis enthroned</a> is followed by a luxuriously executed double page illumination in gold and polychrome <a href='' onclick='store.loadPage(1);return false;'>[2v, 3r]</a>. </p>",
      "label" : "Abstract",
      "seq" : 11 },
     "authors" : 
@@ -181,7 +181,7 @@
      "value" : 
      [ 
       { "display" : true,
-       "displayForm" : "Double page frontispiece depicting Sulayman enthroned <a href='' onclick='store.loadPage(2);return false;'>[1v]</a> and Bilqis enthroned <a href='' onclick='store.loadPage(3);return false;'>[2r]</a><br />Luxuriously executed double page shamsas in gold and polychrome containing the Baysunghur version of the prose introduction to the Shahnamah <a href='' onclick='store.loadPage(4);return false;'>[2v, 3r]</a><br />Text frames in red, yellow, brown and gold.",
+       "displayForm" : "Double page frontispiece depicting Sulayman enthroned <a href='' onclick='store.loadPage(2);return false;'>[1v]</a> and Bilqis enthroned <a href='' onclick='store.loadPage(1);return false;'>[2r]</a><br />Luxuriously executed double page shamsas in gold and polychrome containing the Baysunghur version of the prose introduction to the Shahnamah <a href='' onclick='store.loadPage(1);return false;'>[2v, 3r]</a><br />Text frames in red, yellow, brown and gold.",
        "seq" : 193 } ] },
     "bindings" : 
     { "display" : true,
@@ -278,8 +278,14 @@
     "name-short" : "This is another collection",
     "sort" : 
     { "name" : "another_sort",
+     "value" : "000001" } },
+   
+   { "url-slug" : "test",
+    "name-short" : "This is a Test Collection",
+    "sort" : 
+    { "name" : "test_sort",
      "value" : "000001" } } ],
-  "numberOfPages" : 4,
+  "numberOfPages" : 2,
   "embeddable" : true,
   "textDirection" : "L",
   "sourceData" : "/v1/metadata/tei/MS-TEST-ITEM-00001/",
@@ -290,7 +296,7 @@
     "physID" : "PHYS-1",
     "sequence" : 1,
     "itemURL" : "MS-TEST-ITEM-00001/1",
-    "IIIFImageURL" : "MS-TEST-ITEM-00001-000-00001",
+    "IIIFImageURL" : "Example-MANUSCRIPT-p0001",
     "thumbnailImageOrientation" : "portrait",
     "imageWidth" : 6200,
     "imageHeight" : 9800 },
@@ -300,27 +306,7 @@
     "physID" : "PHYS-2",
     "sequence" : 2,
     "itemURL" : "MS-TEST-ITEM-00001/2",
-    "IIIFImageURL" : "MS-TEST-ITEM-00001-000-00002",
-    "thumbnailImageOrientation" : "portrait",
-    "imageWidth" : 6200,
-    "imageHeight" : 9800 },
-   
-   { "id" : "MS-TEST-ITEM-00001-3",
-    "label" : "2r",
-    "physID" : "PHYS-3",
-    "sequence" : 3,
-    "itemURL" : "MS-TEST-ITEM-00001/3",
-    "IIIFImageURL" : "MS-TEST-ITEM-00001-000-00003",
-    "thumbnailImageOrientation" : "portrait",
-    "imageWidth" : 6200,
-    "imageHeight" : 9800 },
-   
-   { "id" : "MS-TEST-ITEM-00001-4",
-    "label" : "2v",
-    "physID" : "PHYS-4",
-    "sequence" : 4,
-    "itemURL" : "MS-TEST-ITEM-00001/4",
-    "IIIFImageURL" : "MS-TEST-ITEM-00001-000-00004",
+    "IIIFImageURL" : "Example-MANUSCRIPT-p0002",
     "thumbnailImageOrientation" : "portrait",
     "imageWidth" : 6200,
     "imageHeight" : 9800 } ],
@@ -331,8 +317,8 @@
     "startPageLabel" : "1r",
     "startPagePosition" : 1,
     "startPageID" : "PHYS-1",
-    "endPageLabel" : "2v",
-    "endPagePosition" : 4,
+    "endPageLabel" : "1v",
+    "endPagePosition" : 2,
     "children" : 
     [ 
      { "descriptiveMetadataID" : "ITEM-2",
@@ -346,16 +332,16 @@
      { "descriptiveMetadataID" : "ITEM-3",
       "label" : "Frontispiece depicting Bilqis enthroned",
       "startPageLabel" : "2r",
-      "startPagePosition" : 3,
-      "startPageID" : "PHYS-3",
+      "startPagePosition" : 1,
+      "startPageID" : "PHYS-1",
       "endPageLabel" : "2r",
-      "endPagePosition" : 3 },
+      "endPagePosition" : 1 },
      
      { "descriptiveMetadataID" : "ITEM-4",
       "label" : "Decorated prose introduction",
       "startPageLabel" : "2v",
-      "startPagePosition" : 4,
-      "startPageID" : "PHYS-4",
+      "startPagePosition" : 1,
+      "startPageID" : "PHYS-1",
       "endPageLabel" : "3r",
       "endPagePosition" : 1 },
      
