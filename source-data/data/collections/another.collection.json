@@ -20,7 +20,7 @@
     }
   },
   "items" : [ {
-    "@id" : "../items/data/tei/MS-TEST-00001/MS-TEST-00001.xml"
+    "@id" : "../items/data/tei/MS-TEST-ITEM-00001/MS-TEST-ITEM-00001.xml"
   }
   ]
 }
