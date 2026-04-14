@@ -1,0 +1,23 @@
+
+ { "cam:restriction" : "access_closed",
+  "filename" : "MS-TEST-ITEM-00001",
+  "abstract" : "<p style='text-align: justify;'>A richly illuminated and almost complete copy of the Shahnamah with less than a page missing of its prose introduction, probably copied in the 16th/17th Century C.E. The drop-shaped <a href='' onclick='store.loadPage(1);return false;'>Golkonda seal</a> on the first page appears to be that of Muhammad Quli Qutb Shah, Sultan of Golkunda, 1565-1612 with the date 1012 [1603/4 C.E.] and a later inscription dated 1091 [1610/11 C.E.]. The double page frontispiece depicting <a href='' onclick='store.loadPage(2);return false;'>Sulayman enthroned</a> and <a href='' onclick='store.loadPage(3);return false;'>Bilqis enthroned</a> is followed by a luxuriously executed double page illumination in gold and polychrome <a href='' onclick='store.loadPage(4);return false;'>[2v, 3r]</a>. </p>",
+  "identifier" : "MS Add.269",
+  "title" : "Shāhnāmah",
+  "creator" : 
+  [ "Firdawsī" ],
+  "subjects" : 
+  [ "Persian literature",
+   "Islamic illumination of books and manuscripts" ],
+  "rights" : "This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 Unported License.",
+  "license" : "This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 Unported License.",
+  "Source" : "Cambridge University Digital Library",
+  "collectionDirectorate" : "Digital Initiatives",
+  "collectionName" : "Research Outputs",
+  "type" : "TEI XML",
+  "collectionType" : "CUDL Item",
+  "collectingArea" : "Cambridge University Digital Library",
+  "researchProject" : "",
+  "collectingSource" : "Cambridge University Digital Library",
+  "collectingBody" : "Cambridge University Library",
+  "CopyToPreservation" : true }

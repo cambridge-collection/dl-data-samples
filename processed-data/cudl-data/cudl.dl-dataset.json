@@ -1,0 +1,13 @@
+{
+  "@type": "https://schemas.cudl.lib.cam.ac.uk/package/v1/dl-dataset.json",
+  "name": "Sample Digital Library Data",
+  "collections": [
+    {
+      "@id": "collections/test.collection.json"
+    },
+    {
+      "@id": "collections/another.collection.json"
+    }
+  ],
+  "description": "Sample dataset for CUDL development environment. Contains test collections and items for validating the data processing pipeline."
+}

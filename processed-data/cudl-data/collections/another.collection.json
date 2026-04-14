@@ -1,5 +1,6 @@
 {
   "@type" : "https://schemas.cudl.lib.cam.ac.uk/package/v1/collection.json",
+  "collections" : [ ],
   "name" : {
     "url-slug" : "another",
     "sort" : "Sorting Another Name",
@@ -9,17 +10,16 @@
   "description" : {
     "short" : "Test collection. Short Description.",
     "full" : {
-      "@id" : "../../pages/html/collections/another/summary.html"
+      "@id" : "collections/another/summary.html"
     },
     "medium" : "Another collection."
   },
   "credit" : {
     "prose" : {
-      "@id" : "../../pages/html/collections/another/sponsors.html"
+      "@id" : "collections/another/sponsors.html"
     }
   },
   "items" : [ {
-    "@id" : "../../json/MS-TEST-ITEM-00001.json"
-  }
-  ]
+    "@id" : "json/MS-TEST-ITEM-00001.json"
+  } ]
 }

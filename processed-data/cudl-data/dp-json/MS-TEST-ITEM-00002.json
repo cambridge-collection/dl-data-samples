@@ -1,0 +1,20 @@
+
+ { "cam:restriction" : "access_closed",
+  "filename" : "MS-TEST-ITEM-00002",
+  "abstract" : "<p style='text-align: justify;'>Marriage deed (ketubba) dated Thursday 13 Nisan [1]606 Sel. (= 31 March 1295 CE) in Fusṭāṭ. The ketubba is written under the authority of David Maimonides (David b. Abraham b. Moses) as Nagid (Raʾīs al-Yahūd). The groom is Nadiv b. Elʿazar b. Abraham, and the bride is Sarah bat Elʿazar b. Abraham. There is a solitary signature at the end of the deed: Saʿadya b. Judah, who was presumably the scribe. Front and back of this manuscript were shot in the wrong order, so the ketubba is in image 2. On the numbering of Add.3124A and Add.3124B see Reif (1997: no. 933).</p>",
+  "identifier" : "Add.3124A",
+  "title" : "Legal document: ketubba",
+  "subjects" : 
+  [ "Cairo Genizah" ],
+  "rights" : "This metadata is published free of restrictions, under the terms of the Creative Commons CC0 1.0 Universal Public Domain Dedication.",
+  "license" : "This metadata is published free of restrictions, under the terms of the Creative Commons CC0 1.0 Universal Public Domain Dedication.",
+  "Source" : "Cambridge University Digital Library",
+  "collectionDirectorate" : "Digital Initiatives",
+  "collectionName" : "Research Outputs",
+  "type" : "TEI XML",
+  "collectionType" : "CUDL Item",
+  "collectingArea" : "Cambridge University Digital Library",
+  "researchProject" : "",
+  "collectingSource" : "Cambridge University Digital Library",
+  "collectingBody" : "Cambridge University Library",
+  "CopyToPreservation" : true }

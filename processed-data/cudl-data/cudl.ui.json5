@@ -1,0 +1,126 @@
+{
+  "@type" : "https://schemas.cudl.lib.cam.ac.uk/cudl/ui/v1/json",
+  "theme-name" : "sample",
+  "theme-data" : {
+    "collections" : [ {
+      "collection" : {
+        "@id" : "collections/test.collection.json"
+      },
+      "layout" : "virtual",
+      "thumbnail" : {
+        "@id" : "./pages/images/collectionsView/collection-test.jpg"
+      }
+    }, {
+      "collection" : {
+        "@id" : "collections/another.collection.json"
+      },
+      "layout" : "organisation",
+      "thumbnail" : {
+        "@id" : "./pages/images/collectionsView/collection-another.jpg"
+      }
+    } ],
+    "pages": [ {
+        "name": "home",
+        "html": {
+          "@id": "./pages/html/index.html"
+        }
+      },
+      {
+        "name": "about",
+        "html": {
+          "@id": "./pages/html/about-main.html"
+        }
+      },
+      {
+        "name": "about-main-side",
+        "html": {
+          "@id": "./pages/html/about-side.html"
+        }
+      },
+      {
+        "name": "about-community",
+        "html": {
+          "@id": "./pages/html/about-main.html"
+        }
+      },
+      {
+        "name": "about-news",
+        "html": {
+          "@id": "./pages/html/news.html"
+        }
+      },
+      {
+        "name": "about-contributors",
+        "html": {
+          "@id": "./pages/html/contributors.html"
+        }
+      },
+      {
+        "name": "about-terms-conditions",
+        "html": {
+          "@id": "./pages/html/terms.html"
+        }
+      },
+      {
+        "name": "help",
+        "html": {
+          "@id": "./pages/html/help.html"
+        }
+      },
+      {
+        "name": "footer",
+        "html": {
+          "@id": "./pages/html/footer.html"
+        }
+      }
+    ]
+  },
+  "theme-ui": {
+    "title": "My Digital Collections",
+    "description": "A home for the discovery of digitised material and research outputs",
+    "attribution": "Provided by My Institution.",
+    "css": [
+      "ui/theme/css/default.css",
+      "ui/theme/css/override.css"
+    ],
+    "js": [
+      "ui/theme/js/js1.js",
+      "ui/theme/js/js2.js"
+    ],
+    "images": {
+      "logo": {
+        "src": "ui/theme/images/logo.png",
+        "alt": "This the default logo, change me!",
+        "href": "https://community.cdcp.info/"
+      },
+      "logo_document_page": {
+        "src": "ui/theme/images/logo_white.png",
+        "alt": "You can have a different logo here for the document page",
+        "href": "/"
+      },
+      "logo_document_page_right": {
+        "src": "ui/theme/images/logo_document_right.gif",
+        "alt": "You can have a different logo here for the document page",
+        "href": "https://community.cdcp.info/"
+      },
+      "logo_additional": {
+        "src": "ui/theme/images/additional-800w.jpg",
+        "alt": "Alt text",
+        "imageset": [
+          {
+            "media": "(max-width: 799px)",
+            "src": "ui/theme/images/additional-799w.jpg"
+          },
+          {
+            "media": "(min-width: 800px)",
+            "src": "ui/theme/images/additional-800w.jpg"
+          }
+        ]
+      },
+      "some-other-global-ui-image": {
+        "src": "ui/theme/images/something-else-global.jpg",
+        "alt": "Alt text"
+      }
+    }
+  }
+}
